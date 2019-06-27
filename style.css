@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: snow;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    text-align: center;
+    width: 50%;
+    border: black solid 1px;
+}
+
+.square1 {
+    background: red;
+    color: white;
+}
+
+.square2 {
+    background: blue;
+    color: white;
+}
+
+.square3 {
+    background: yellow;
+    color: black;
+}
