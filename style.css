@@ -4,8 +4,8 @@
 }
 
 body {
-    width: 100%;
-    height: 100%;
+    width: 200%;
+    height: 200%;
     background: snow;
 }
 
@@ -14,8 +14,8 @@ div {
     margin-right: auto;
     margin-top: 2em;
     text-align: center;
-    width: 50%;
-    border: black solid 1px;
+    width: 55%;
+    border: green 5px;
 }
 
 .square1 {
@@ -29,6 +29,5 @@ div {
 }
 
 .square3 {
-    background: yellow;
+    background: purple;
     color: black;
-}
