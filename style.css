@@ -12,10 +12,10 @@ body {
 div {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 3em;
     text-align: center;
-    width: 55%;
-    border: green 5px;
+    width: 30%;
+    border: black solid 1px;
 }
 
 .square1 {
